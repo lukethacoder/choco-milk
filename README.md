@@ -73,6 +73,7 @@ edit the `install.ps1` file, remove and/or add to suit your needs. Below is a li
 - [nvm](https://github.com/nvm-sh/nvm)
 - [NodeJS](https://nodejs.org/en/)
 - [npm](https://www.npmjs.com/get-npm)
+- [sfdx](https://developer.salesforce.com/tools/sfdxcli)
 - [Google Chrome](https://www.google.com.au/chrome/)
 - [Google Chrome Dev](https://www.google.com/chrome/dev/)
 - [FireFox](https://www.mozilla.org/en-US/firefox/new/)
