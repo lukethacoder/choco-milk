@@ -22,34 +22,38 @@ Using `powershell.exe`
 <br/>
 
 ## Choose your Software & Programs
-edit the `setup.sh` file, remove and/or add to suit your needs. Below is a list of default programs that will be installed:
+edit the `install.ps1` file, remove and/or add to suit your needs. Below is a list of default programs that will be installed:
 
-#### Browsers
-- Google Chrome
-- FireFox
+#### Languages
+[- yarn
+- jdk8
+- php
+- python
+
+#### Dev Tools
+- Hyper
+- Source Tree
+- FileZilla FTP
+- Putty
+- Postman
 
 #### Text Editor / IDE's
 - Visual Studio Code
 - IntelliJ Community Edition
 
-#### Dev Tools
-- git
-- node.js
-- Source Tree
-- FileZilla FTP
-- Putty
-- Python
-
 #### Media
-- VLC Player
 - Spotify
 
 #### Utilities + other
 - 7Zip
 - Slack
+- Microsoft Teams
 - MailSpring
 - Office365 Pro Plus
 - Google Drive File System
+- 4k Video Downloader
+- Handbrake
+- Lightshot
 
 
 ---
@@ -59,5 +63,17 @@ edit the `setup.sh` file, remove and/or add to suit your needs. Below is a list 
 
 # Install Software & Programs
 
-run `setup.sh` 
+- Open Powershell
+- Run `& install.ps1` (assuming you're in the repo directory)
 
+
+## Extra Packages (to be manually installed)
+
+- [git](https://git-scm.com/download/win)
+- [nvm](https://github.com/nvm-sh/nvm)
+- [NodeJS](https://nodejs.org/en/)
+- [npm](https://www.npmjs.com/get-npm)
+- [Google Chrome](https://www.google.com.au/chrome/)
+- [Google Chrome Dev](https://www.google.com/chrome/dev/)
+- [FireFox](https://www.mozilla.org/en-US/firefox/new/)
+- [Firefox Dev](https://www.mozilla.org/en-US/firefox/developer/)
