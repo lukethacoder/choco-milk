@@ -1,6 +1,6 @@
 choco install nvm -y
 
-choco install yarn jdk8 php python -y
+choco install yarn jdk8 php python python2 -y
 
 choco install git.install hyper laragon.install sourcetree filezilla putty.install postman -y
 
