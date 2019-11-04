@@ -25,10 +25,11 @@ Using `powershell.exe`
 edit the `install.ps1` file, remove and/or add to suit your needs. Below is a list of default programs that will be installed:
 
 #### Languages
-[- yarn
+- yarn
 - jdk8
 - php
 - python
+- composer
 
 #### Dev Tools
 - Hyper
