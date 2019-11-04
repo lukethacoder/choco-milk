@@ -79,3 +79,5 @@ edit the `install.ps1` file, remove and/or add to suit your needs. Below is a li
 - [Google Chrome Dev](https://www.google.com/chrome/dev/)
 - [FireFox](https://www.mozilla.org/en-US/firefox/new/)
 - [Firefox Dev](https://www.mozilla.org/en-US/firefox/developer/)
+
+- [One Dark Pro for Intellij](https://plugins.jetbrains.com/plugin/11938-one-dark-theme/versions)
