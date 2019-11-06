@@ -81,3 +81,4 @@ edit the `install.ps1` file, remove and/or add to suit your needs. Below is a li
 - [Firefox Dev](https://www.mozilla.org/en-US/firefox/developer/)
 
 - [One Dark Pro for Intellij](https://plugins.jetbrains.com/plugin/11938-one-dark-theme/versions)
+- [SVG Preview for Windows](https://github.com/maphew/svg-explorer-extension)
