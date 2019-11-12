@@ -82,3 +82,4 @@ edit the `install.ps1` file, remove and/or add to suit your needs. Below is a li
 
 - [One Dark Pro for Intellij](https://plugins.jetbrains.com/plugin/11938-one-dark-theme/versions)
 - [SVG Preview for Windows](https://github.com/maphew/svg-explorer-extension)
+- [Fira Code](https://github.com/tonsky/FiraCode)
