@@ -1,7 +1,7 @@
 # 🍫 Choco Milk 🥛
 
 
-## Install <a style="color: white; background-color: #4e2c01;" href="https://chocolatey.org/install">Chocolatey</a>
+## Install <a style="color: #4e2c01;" href="https://chocolatey.org/install">Chocolatey</a>
 
 Using `cmd.exe`
 
@@ -19,12 +19,12 @@ Using `powershell.exe`
 
 ```
 ---
-<br/>
 
 ## Choose your Software & Programs
 edit the `install.ps1` file, remove and/or add to suit your needs. Below is a list of default programs that will be installed:
 
-#### Languages
+#### Languages/Package managers
+- [nvm-windows](hhttps://github.com/coreybutler/nvm-windows)
 - yarn
 - jdk8
 - php
@@ -32,11 +32,9 @@ edit the `install.ps1` file, remove and/or add to suit your needs. Below is a li
 - composer
 
 #### Dev Tools
-- Hyper
-- Source Tree
-- FileZilla FTP
-- Putty
 - Postman
+- Putty
+- FileZilla FTP
 
 #### Text Editor / IDE's
 - Visual Studio Code
@@ -49,18 +47,19 @@ edit the `install.ps1` file, remove and/or add to suit your needs. Below is a li
 - 7Zip
 - Slack
 - Microsoft Teams
+- Google Chrome
+- Mozilla Firefox
 - MailSpring
 - Office365 Pro Plus
 - Google Drive File System
 - 4k Video Downloader
 - Handbrake
-- Lightshot
+- [Fira Code](https://github.com/tonsky/FiraCode)
 
 
 ---
 
 
-<br/>
 
 # Install Software & Programs
 
@@ -70,16 +69,22 @@ edit the `install.ps1` file, remove and/or add to suit your needs. Below is a li
 
 ## Extra Packages (to be manually installed)
 
-- [git](https://git-scm.com/download/win)
-- [nvm](https://github.com/nvm-sh/nvm)
-- [NodeJS](https://nodejs.org/en/)
+- [f.lux](https://justgetflux.com/)
+- [NodeJS](https://nodejs.org/en/) (via [nvm-windows](hhttps://github.com/coreybutler/nvm-windows))
 - [npm](https://www.npmjs.com/get-npm)
 - [sfdx](https://developer.salesforce.com/tools/sfdxcli)
-- [Google Chrome](https://www.google.com.au/chrome/)
+- [Notion](https://www.notion.so/)
 - [Google Chrome Dev](https://www.google.com/chrome/dev/)
-- [FireFox](https://www.mozilla.org/en-US/firefox/new/)
 - [Firefox Dev](https://www.mozilla.org/en-US/firefox/developer/)
-
+- [Illuminated Cloud 2](http://www.illuminatedcloud.com/) (for intellij)
 - [One Dark Pro for Intellij](https://plugins.jetbrains.com/plugin/11938-one-dark-theme/versions)
 - [SVG Preview for Windows](https://github.com/maphew/svg-explorer-extension)
-- [Fira Code](https://github.com/tonsky/FiraCode)
+- [PowerToys](https://github.com/microsoft/PowerToys)
+- [ScreenToGif](https://www.screentogif.com/)
+- [1password](https://1password.com/)
+
+
+## Extra post install setup
+
+- [Setup Github GPG Keys](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-gpg-key)
+- [Windows Terminal Profiles](https://github.com/lukethacoder/.../blob/master/profiles.json)
