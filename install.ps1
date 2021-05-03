@@ -1,4 +1,4 @@
-choco install nvm -y
+choco feature enable -n=allowGlobalConfirmation
 
 choco install yarn jdk8 php python python2 -y
 
