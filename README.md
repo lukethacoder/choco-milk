@@ -30,6 +30,7 @@ edit the `install.ps1` file, remove and/or add to suit your needs. Below is a li
 - Postman
 - Putty
 - FileZilla FTP
+- cURL
 
 #### Text Editor / IDE's
 

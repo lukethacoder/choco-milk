@@ -2,7 +2,7 @@ choco feature enable -n=allowGlobalConfirmation
 
 choco install yarn jdk8 php python python2 -y
 
-choco install git.install laragon.install filezilla putty.install postman -y
+choco install git.install laragon.install filezilla putty.install postman curl -y
 
 choco install spotify -y
 
