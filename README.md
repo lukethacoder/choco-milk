@@ -48,7 +48,6 @@ edit the `install.ps1` file, remove and/or add to suit your needs. Below is a li
 - Microsoft Teams
 - Google Chrome
 - Mozilla Firefox
-- [MailSpring](https://getmailspring.com/)
 - Office365 Pro Plus
 - Google Drive File System
 - [4k Video Downloader](https://www.4kdownload.com/products/product-videodownloader)
